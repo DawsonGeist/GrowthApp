@@ -1,0 +1,101 @@
+{
+  "auth": {
+    "growthappc30c1ba7": {
+      "customAuth": false,
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "Cognito",
+      "serviceType": "imported"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_auth_growthappc30c1ba7_allowUnauthenticatedIdentities": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "growthappc30c1ba7"
+        }
+      ]
+    },
+    "AMPLIFY_auth_growthappc30c1ba7_authRoleArn": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "growthappc30c1ba7"
+        }
+      ]
+    },
+    "AMPLIFY_auth_growthappc30c1ba7_authRoleName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "growthappc30c1ba7"
+        }
+      ]
+    },
+    "AMPLIFY_auth_growthappc30c1ba7_identityPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "growthappc30c1ba7"
+        }
+      ]
+    },
+    "AMPLIFY_auth_growthappc30c1ba7_identityPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "growthappc30c1ba7"
+        }
+      ]
+    },
+    "AMPLIFY_auth_growthappc30c1ba7_nativeClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "growthappc30c1ba7"
+        }
+      ]
+    },
+    "AMPLIFY_auth_growthappc30c1ba7_unauthRoleArn": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "growthappc30c1ba7"
+        }
+      ]
+    },
+    "AMPLIFY_auth_growthappc30c1ba7_unauthRoleName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "growthappc30c1ba7"
+        }
+      ]
+    },
+    "AMPLIFY_auth_growthappc30c1ba7_userPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "growthappc30c1ba7"
+        }
+      ]
+    },
+    "AMPLIFY_auth_growthappc30c1ba7_userPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "growthappc30c1ba7"
+        }
+      ]
+    },
+    "AMPLIFY_auth_growthappc30c1ba7_webClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "growthappc30c1ba7"
+        }
+      ]
+    }
+  }
+}
